@@ -18,7 +18,7 @@ The proposed method therefore consists of two parts corresponding to the two con
 
 # Quick Start
 
-### **NOTE**: The backbone of this code is [CADDM](https://github.com/megvii-research/CADDM), so it heavily borrows from the [CADDM repository](https://github.com/megvii-research/CADDM). Furthermore, it requires CADDM data preprocessing, such as landmark extraction and source image labeling. If CADDM is not available to you, you can consider our other repository, which uses EfficientNet as the backbone and achieved 2nd🥈 place in the NeurIPS 2025 AIFace Detection Challenge.
+### **NOTE**: The backbone of this code is [CADDM](https://github.com/megvii-research/CADDM), so it heavily borrows from the [CADDM repository](https://github.com/megvii-research/CADDM). Furthermore, it requires CADDM data preprocessing, such as landmark extraction and source image labeling. If CADDM is not available to you, you can consider our other repository, i.e., [DAID_AI_Face](https://github.com/xaCheng1996/DAID_AI_Face), which uses EfficientNet as the backbone and achieved 2nd🥈 place in the NeurIPS 2025 AIFace Detection Challenge.
 
 Our model can be directly applied to deepfake data, but if you need to calculate fairness metrics, your dataset needs to include demographic labels. In our work, we directly borrowed the datasets from the [previous work](https://github.com/Purdue-M2/Fairness-Generalization).
 
