@@ -22,7 +22,7 @@ The proposed method therefore consists of two parts corresponding to the two con
 
 Our model can be directly applied to deepfake data, but if you need to calculate fairness metrics, your dataset needs to include demographic labels. In our work, we directly borrowed the datasets from the [previous work](https://github.com/Purdue-M2/Fairness-Generalization).
 
-Once your dataset is ready, you can download the checkpoint from Google Drive or [BaiduYunDisk](https://pan.baidu.com/s/1aY2G2fJt_ED55qhwWS8nLg?pwd=qxvj )
+Once your dataset is ready, you can download the checkpoint from [Google Drive](https://drive.google.com/file/d/1obeawJUIBc0brvjUAThygnC469QOQp8c/view?usp=sharing) or [BaiduYunDisk](https://pan.baidu.com/s/1aY2G2fJt_ED55qhwWS8nLg?pwd=qxvj )
 
 Then, you can simply run
 
